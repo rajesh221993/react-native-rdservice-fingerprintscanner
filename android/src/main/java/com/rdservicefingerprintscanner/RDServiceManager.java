@@ -38,8 +38,11 @@ public class RDServiceManager {
     {
       put("com.secugen.rdservice", "Secugen");
       put("com.scl.rdservice", "Morpho");
+      put("com.idemia.l1rdservice", "Morpho L1");
       put("com.mantra.rdservice", "Mantra");
+      put("com.mantra.mfs110.rdservice", "Mantra L1");
       put("com.acpl.registersdk", "Startek FM220");
+      put("com.acpl.registersdk_l1", "Startek L1");
       put("com.rd.gemalto.com.rdserviceapp", "Gemalto 3M Cogent CSD200");
       put("com.integra.registered.device", "Integra");
       put("com.aratek.asix_gms.rdservice", "Aratek");
